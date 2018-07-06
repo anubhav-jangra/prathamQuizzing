@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #200122; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #200122, #6f0000); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #200122, #6f0000);
+    font-family: Roboto, sans-serif;
+}
+
+.container {
+    margin: 3vh 10%;
+    text-align: center;
+    border: 10px solid #A1887F;
+    background-color: #d7ccc8;
+}
+
+#heading {
+    text-align: center;
+    margin: 3vh 10%;
+    color: #FAFAFA;
+    font-size: 44px;
+}
+
+.school {
+    margin: 20px;
+    font-size: 24px;
+}
+
+.teacher {
+    font-size: 1.2em;
+}
+
+.allClasses {
+    display: flex;
+    justify-content: center;
+    font-size: .4em;
+}
+
+.allScores {
+    font-size: .6em;
+    display: flex;
+    justify-content: space-around;
+}
+
+.score{
+    display: flex;
+    justify-content: space-around;
+}
