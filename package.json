@@ -1,0 +1,23 @@
+{
+  "name": "pratham_scores",
+  "version": "1.0.0",
+  "description": "An admin page for a qizzing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/love-san/prathamQuizzing.git"
+  },
+  "author": "love_san",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/love-san/prathamQuizzing/issues"
+  },
+  "homepage": "https://github.com/love-san/prathamQuizzing#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
